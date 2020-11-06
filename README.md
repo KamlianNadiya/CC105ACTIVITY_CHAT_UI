@@ -1,5 +1,3 @@
 # Apps From Scratch | Flutter Chat UI Starter Repo
 
-Clone this repo and follow my YouTube video: [Flutter Chat UI Tutorial | Apps From Scratch](https://youtu.be/h-igXZCCrrc)
-
-[Complete Chat UI](https://github.com/MarcusNg/flutter_chat_ui)
+week 2 activity from the video link3 : https://www.youtube.com/watch?v=h-igXZCCrrc
